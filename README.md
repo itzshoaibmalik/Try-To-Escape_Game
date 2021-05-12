@@ -1,36 +1,18 @@
-## Welcome to GitHub Pages
+## TRY NOT TO ESCAPE
+
+A simple open source game made with html, js, and css.
 
 You can use the [editor on GitHub](https://github.com/itzshoaibmalik/Try-To-Escape_Game/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Contributing
+As a free and open source game, Try Not To Escape is the product of many peoples' work. Contributions of artwork, storylines, and other writing are most in-demand, while there is a loosely defined [development roadmap]
+Those who wish to contribute are encouraged to review the [wiki](https://github.com/itzshoaibmalik/Try-To-Escape/en/wiki), and to post in the [discussion forum](http://groups.google.com/group/endless-sky).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Licensing
+Try To Escape Game is a free, open source game. The [source code](https://github.com/itzshoaibmalik/Try-To-Escape/) is available under MIT license, and all the artwork is either public domain or released under a variety of Creative Commons licenses. (To determine the copyright status of any of the artwork, consult the [copyright file](https://github.com/itzshoaibmalik/Try-To-Escape/blob/master/copyright).)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itzshoaibmalik/Try-To-Escape_Game/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
